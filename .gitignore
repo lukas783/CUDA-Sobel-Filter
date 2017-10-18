@@ -1,0 +1,8 @@
+*.exe
+*.exp
+*.lib
+*.json
+kernel.cu
+*.sh
+edge
+*.png
